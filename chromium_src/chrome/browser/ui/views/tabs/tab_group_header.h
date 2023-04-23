@@ -6,7 +6,7 @@
 #ifndef BRAVE_CHROMIUM_SRC_CHROME_BROWSER_UI_VIEWS_TABS_TAB_GROUP_HEADER_H_
 #define BRAVE_CHROMIUM_SRC_CHROME_BROWSER_UI_VIEWS_TABS_TAB_GROUP_HEADER_H_
 
-#define TabGroupEditorBubbleViewDialogBrowserTest \
+#define TabGroupEditorBubbleViewDialogBrowserTest \ 
   TabGroupEditorBubbleViewDialogBrowserTest;      \
   friend class BraveTabGroupHeader
 #define VisualsChanged virtual VisualsChanged
